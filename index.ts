@@ -1,1 +1,2 @@
-thien 123
+//thien 123
+console.log("oke");
